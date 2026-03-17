@@ -52,8 +52,8 @@ $products = [
         ?>
         </ul>
 
-        <h2>Offers on <?= $day ?></h2>
-        <p><?= $offer; ?></p>
+        <h2>Offers on</h2>
+        <p></p>
 
         <h2>$products</h2>
         <table>

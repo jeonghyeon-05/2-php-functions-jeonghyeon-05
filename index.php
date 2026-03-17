@@ -20,7 +20,7 @@ switch($day) {
         $offer = '20% off chocolates';
         break;
     case 'Tuesday' :
-        $offer = '20% off mints';
+        $offer = '20% off mints'; 
         break;
     default :
         $offer = '3+1 mints';

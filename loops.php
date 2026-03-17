@@ -25,7 +25,7 @@ $products = [
         <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
-        <h1>The Candy Store</h1>
+        <h1>The Candy Store</h1> 
         <h2>Chocolate</h2>
              <ol>
             <?php
